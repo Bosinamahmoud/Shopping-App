@@ -57,4 +57,21 @@ Bloomify is a Flutter-based mobile application that simulates a flower shopping 
 1. **Clone the Repository**  
    ```bash
    [git clone https://github.com/your-username/bloomify.git](https://github.com/Bosinamahmoud/Shopping-App.git)
-  
+
+## 📸 Screenshots
+
+### 🌸 Welcome Screen
+![](assets/Screenshots/Welcome%20Screen.jpg)
+
+### 🔐 Sign In
+![](assets/Screenshots/Sign%20In.jpg)
+
+### 📝 Sign Up
+![](assets/Screenshots/Sign%20Up.jpg)
+
+### 🏠 Home Page 1
+![](assets/Screenshots/Home1.jpg)
+
+### 🏠 Home Page 2
+![](assets/Screenshots/Home2.jpg)
+
